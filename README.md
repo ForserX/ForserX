@@ -12,25 +12,8 @@
 
 
 
-
-
-
 ### ML/DL
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![ONNX](https://github.com/ForserX/ForserX/assets/13867290/476c7cee-3eef-4091-967a-1f9428a30de1) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
 
 ### OS
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![FreeBSD](https://img.shields.io/badge/-FreeBSD-%23870000?style=for-the-badge&logo=freebsd&logoColor=white)
-
-
-### Stats 
-<p align="center">
-  <a href="https://github.com/ForserX">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ForserX&theme=transparent" />
-  </a>
-  <a href="https://github.com/ForserX">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ForserX&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/ForserX">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ForserX&theme=transparent" />
-  </a>
-</p>
